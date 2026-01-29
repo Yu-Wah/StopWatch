@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(233, 239, 242);
+}
+
+
+
+
+button{
+    margin-top: 100px;
+}
+.stopWatch{
+    text-decoration: double;
+    font-size: 3rem;
+    color: rgb(132, 19, 188);
+    margin-top: 50px;
+   
+}
+.Container{
+        flex-direction: column;
+        justify-items: center;
+}
